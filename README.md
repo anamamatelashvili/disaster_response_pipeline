@@ -1,5 +1,15 @@
 # Disaster Response Pipeline Project
 
+
+#### Table of Contents
+1. [Summary](#summary)
+2. [Instructions](#instructions)
+3. [The files in the repository](#files)
+
+
+### Summary:
+a summary of the project, 
+
 ### Instructions:
 1. Run the following commands in the project's root directory to set up your database and model.
 
@@ -12,3 +22,20 @@
     `python run.py`
 
 3. Go to http://0.0.0.0:3001/
+
+### The files in the repository:
+The repository contains the following files:
+
+* app/run.py 
+
+* app/templates/go.html
+
+* app/templates/master.html
+
+* data/disaster_categories.csv
+
+* data/disaster_messages.csv
+
+* data/process_data.py
+
+* models/train_classifier.py
